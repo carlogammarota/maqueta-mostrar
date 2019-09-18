@@ -4,8 +4,8 @@
       <b-container style="padding: 0px">
         <b-row align-h="center" style="margin-top: 40px">
           <b-col sm="12" md="12">
-            {{$route.params}}
-            {{GetPorImpuestoyPeriodo}}
+            <!-- {{$route.params}}
+            {{GetPorImpuestoyPeriodo}} -->
             <b-navbar toggleable="lg" type="light" variant="info">
               <b-navbar-toggle target="nav_collapse"/>
 

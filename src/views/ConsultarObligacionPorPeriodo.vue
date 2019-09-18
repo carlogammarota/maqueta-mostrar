@@ -6,9 +6,9 @@
           <b-col cols="12">
             <b-card class="text-left">
               <!-- {{$route.params}} -->
-              {{$route.query}}
-              <br/>
-              {{getConsultarImpuestoPeriodo}}
+              <!-- {{$route.query}}
+              <br/> -->
+              <!-- {{getConsultarImpuestoPeriodo}} -->
               <!-- <el-tabs v-model="activeTab" @tab-click="handleClick"> -->
               <el-tabs v-model="activeTab">
                 <!-- TAB DETALLE -->
