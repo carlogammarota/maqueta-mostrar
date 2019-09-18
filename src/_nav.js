@@ -62,22 +62,22 @@ export default {
       url: '/agenda',
       icon: 'icon-calendar'
     },
-    {
-      name: 'Accesos',
-      icon: 'icon-link',
-      children: [
-        {
-          name: 'Domicilio Fiscal Electrónico',
-          icon: '',
-          url: '/accesos/dfe'
-        },
-        {
-          name: 'DDJJ Presuntiva',
-          icon: '',
-          url: '/accesos/ddjj'
-        }
-      ]
-    },
+    // {
+    //   name: 'Accesos',
+    //   icon: 'icon-link',
+    //   children: [
+    //     {
+    //       name: 'Domicilio Fiscal Electrónico',
+    //       icon: '',
+    //       url: '/accesos/dfe'
+    //     },
+    //     {
+    //       name: 'DDJJ Presuntiva',
+    //       icon: '',
+    //       url: '/accesos/ddjj'
+    //     }
+    //   ]
+    // },
     {
       name: 'Cerrar Sesión',
       url: '/auth/logout',

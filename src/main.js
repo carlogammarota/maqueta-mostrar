@@ -26,6 +26,15 @@ Vue.use(Row)
 Vue.use(Col)
 Vue.use(Collapse) */
 
+import VueNumerals from 'vue-numerals';
+
+Vue.use(VueNumerals); // default locale is 'en'
+
+// with options
+Vue.use(VueNumerals, {
+  locale: 'fr'
+});
+
 import Element from 'element-ui'
 import locale from 'element-ui/lib/locale/lang/es'
 Vue.use(Element, {
