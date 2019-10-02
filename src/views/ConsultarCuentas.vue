@@ -117,8 +117,8 @@ export default {
       periodo: "Fri Mar 01 2019 00:00:00 GMT-0300 (Argentina Standard Time)",
       impuesto: "",
       ImpuestoPeriodo: {
-        impuesto: "Ingresos Brutos",
-        periodo: "201903"
+        impuesto: "",
+        periodo: ""
       }
     };
   },

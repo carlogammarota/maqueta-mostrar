@@ -8,13 +8,13 @@
             <!-- {{getDetalleDeIntereses}} -->
             
             <!-- {{getDetalleDePunitorios}} -->
-            <!-- RouterParams
+            RouterParams
             {{$route.params}}
             Get Detalle Resarcitorios
             {{getDetalleResarcitorios}}
             Get Detalles Punitorios
             {{getDetalleDePunitorios}}
-            {{InteresesResarcitorios}} -->
+            {{InteresesResarcitorios}}
             <!-- {{getRetencionSegunImpuestoPeriodo}}
             {{}}
             <br>
